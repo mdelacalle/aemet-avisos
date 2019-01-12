@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aemet-Alerts</string>
+    <string name="my_alerts">Mis alertas</string>
+    <string name="mis_alerts_title">mis_alerts_title</string>
+    <string name="todo">TODO</string>
+    <string name="new_aviso">Configurar nueva alerta</string>
+    <string name="level_alert">Nivel</string>
+    <string name="where">Donde</string>
+    <string name="frequency">Frecuencia</string>
+    <string name="ok">OK</string>
+    <string name="error_creating_alert_message">Error creando la alerta. Selecciona todos los parámetros (Cuándo, Dónde y nivel)</string>
+    <string name="erro_dialog_title">Error</string>
+    <string name="ok_dialog_title">OK</string>
+    <string name="ok_creating_alert_message">Alerta creada correctamente</string>
+    <string name="last_avisos">Últimos avisos para </string>
+    <string name="from_level">de nivel</string>
+    <string name="searching">Buscando alertas en AEMET</string>
+    <string name="error_retrieving_data">Error buscando datos de AEMET </string>
+    <string name="no_hay_avisos_activos_en_esta_zona_con_el_nivel_seleccionado">No hay avisos activos para el nivel seleccionado</string>
+    <string name="message_notification">Hay alertas meteorológicas en las siguientes áreas</string>
+
+
+    <string-array name="level_array">
+        <item>Nivel de alerta</item>
+        <item>Amarillo</item>
+        <item>Naranja</item>
+        <item>Rojo</item>
+    </string-array>
+
+    <string-array name="where_array">
+        <item>Zona</item>
+        <item>Andalucía</item>
+        <item>Aragón</item>
+        <item>Asturias</item>
+        <item>Baleares</item>
+        <item>Ceuta</item>
+        <item>Canarias</item>
+        <item>Cantabria</item>
+        <item>Castilla y León</item>
+        <item>Castilla - La Mancha</item>
+        <item>Cataluña</item>
+        <item>Comunidad Valenciana</item>
+        <item>Extremadura</item>
+        <item>Galicia</item>
+        <item>Madrid</item>
+        <item>Melilla</item>
+        <item>Murcia</item>
+        <item>Navarra</item>
+        <item>País Vasco</item>
+        <item>La Rioja</item>
+    </string-array>
+
+
+
+    <string-array name="frequency_array">
+        <item>Periodicidad</item>
+        <item>Diario</item>
+        <item>Dos veces al día</item>
+        <item>Nunca</item>
+    </string-array>
+
+
+
+</resources>

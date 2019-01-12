@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Aemet-Alerts</string>
+    <string name="my_alerts">My alerts</string>
+    <string name="mis_alerts_title">mis_alerts_title</string>
+    <string name="todo">TODO</string>
+    <string name="new_aviso">Set new alert</string>
+    <string name="level_alert">Level</string>
+    <string name="where">Where</string>
+    <string name="frequency">Periodicity</string>
+    <string name="ok">OK</string>
+    <string name="error_creating_alert_message">Error creating the alert. Select all the parameters</string>
+    <string name="erro_dialog_title">Error</string>
+    <string name="ok_dialog_title">OK</string>
+    <string name="ok_creating_alert_message">The alert was created</string>
+    <string name="last_avisos">Last alerts for</string>
+    <string name="from_level">level</string>
+    <string name="searching">Searching alerts in AEMET service</string>
+    <string name="error_retrieving_data">Error retrieving data from AEMET service</string>
+    <string name="no_hay_avisos_activos_en_esta_zona_con_el_nivel_seleccionado">No active alerts</string>
+    <string name="message_notification">There are some alerts from AEMET in the following areas</string>
+
+    <string-array name="level_array">
+        <item>Alert level</item>
+        <item>Yellow</item>
+        <item>Orange</item>
+        <item>Red</item>
+    </string-array>
+
+    <string-array name="where_array">
+        <item>Zona</item>
+        <item>Andalucía</item>
+        <item>Aragón</item>
+        <item>Asturias</item>
+        <item>Baleares</item>
+        <item>Ceuta</item>
+        <item>Canarias</item>
+        <item>Cantabria</item>
+        <item>Castilla y León</item>
+        <item>Castilla - La Mancha</item>
+        <item>Cataluña</item>
+        <item>Comunidad Valenciana</item>
+        <item>Extremadura</item>
+        <item>Galicia</item>
+        <item>Madrid</item>
+        <item>Melilla</item>
+        <item>Murcia</item>
+        <item>Navarra</item>
+        <item>País Vasco</item>
+        <item>La Rioja</item>
+    </string-array>
+
+
+
+    <string-array name="frequency_array">
+        <item>Number of alerts</item>
+        <item>Dayly</item>
+        <item>Twice day</item>
+        <item>Never</item>
+    </string-array>
+
+
+
+</resources>
